@@ -69,3 +69,7 @@ console.log(gameCounter);
 
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
 
+// modulo(remainder operator)
+// 12%5 = 2
+// exponentiation (power operator
+// 2**3=8
